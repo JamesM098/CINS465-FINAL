@@ -6,7 +6,7 @@
 
 - Was not able to get it hosted - Ran into countless problems, and even tried a couple YouTube guides.
 
-- I anticipate failing this course, but I have provided a video of me going over my site with a youtube link.
+- I anticipate failing this course, but I have provided a video of me going over my site with a youtube link in hopes of getting at least a C for passing.
 
 https://youtu.be/-CiL61m5hXg
 
